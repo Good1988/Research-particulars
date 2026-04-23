@@ -1,0 +1,26 @@
+Adaptive lambda-K Denoising BDF2 summary
+===========================================
+
+Selection criterion: balanced
+Selected lambda: 0.15467895946
+Selected K: 0.0574596966671
+Selected result PSNR: 28.4100291669 dB
+Selected result SSIM: 0.841567671197
+
+Noisy image PSNR: 20.3271703716 dB
+Noisy image SSIM: 0.35493605886
+
+Best PSNR-only lambda: 0.267496121991
+Best PSNR-only K: 0.0632455532034
+Best PSNR: 28.4447554301 dB
+SSIM at best PSNR pair: 0.832567054133
+
+Best SSIM-only lambda: 0.128865251518
+Best SSIM-only K: 0.0574596966671
+Best SSIM: 0.842548831889
+PSNR at best SSIM pair: 28.3889647435 dB
+
+Number of parameter evaluations: 99
+
+Denoised image file: E:\Kapyela Goodluck\Manuscript (2)\Manuscript\bdf2_pde_denoising_adaptive_lambda_K_matlab\Implementation Codes\Implementation codes\Implementation codes\results\denoisingBDF2_Optimal_lambda_K.png
+Parameter search history file: E:\Kapyela Goodluck\Manuscript (2)\Manuscript\bdf2_pde_denoising_adaptive_lambda_K_matlab\Implementation Codes\Implementation codes\Implementation codes\results\adaptive_lambda_K_history.csv
